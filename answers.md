@@ -21,6 +21,7 @@ Le main est la branche principale.
 (2 ahead) -> Il y a eu 2 commit.
 
 ### Task 6
+Lors du checkout de l'initial commit, c'est comme si on revenait au tout début donc il n'y a pas toutes les dernière modifications et le checkout du dernier commit nous fait revenir à l'état actuel.
 
 ## Gitgraph
 
