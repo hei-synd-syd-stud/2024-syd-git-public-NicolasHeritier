@@ -8,6 +8,7 @@ On trouve le fichier md et l'image svg de l'arborescence.
 On peut voir que le fichier README.md à été implémenté.
 
 ### Task 3
+Le commit à été effectué et on peut voir toutes les modifications qui ont été effectué.
 
 ### Task 4
 
