@@ -27,4 +27,15 @@ Lors du checkout de l'initial commit, c'est comme si on revenait au tout début 
 
 ### Task 7
 
+1:Nom de la branche
+2:Id du commit
+3:Nom du commit
+4:Auteur
+5:Version
+6:Dernier Commit
+7:Branche FeatureAuth
+8:Merge entre le main et develop
+9:Branche dévelop
+10:Initial commit
+
 ![Gitgraph](img/gitgraph.svg)
