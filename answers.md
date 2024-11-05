@@ -1,9 +1,11 @@
-# Answers of <students-firstname> <students-lastname> <github-username>
+# Answers of Nicolas Heritier NicolasHeritier
 
 ## Basics
 ### Task 1
+On trouve le fichier md et l'image svg de l'arborescence.
 
 ### Task 2
+On peut voir que le fichier README.md à été implémenté.
 
 ### Task 3
 
